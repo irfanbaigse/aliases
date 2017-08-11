@@ -18,6 +18,6 @@ eg.(https://raw.githubusercontent.com/irfanbaigdev/aliases/master/docker-aliases
 
 Author
 ====
-List of authors
+Create a new issue [here](https://github.com/irfanbaigdev/aliases/issues)
 
 - [Irfan Baig](https://github.com/irfanbaigdev)
