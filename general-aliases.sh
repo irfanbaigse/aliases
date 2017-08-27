@@ -6,3 +6,6 @@ alias ps-grep="ps aux | grep" # e.g."ps-grep java" will list processes that have
 alias ping="ping -o" #pings and stops
 alias rm="rm -i" #moves to trash
 alias power-off='sudo /sbin/shutdown -h now' # This forces a shutdown.
+
+alias shrug="echo '¯\_(ツ)_/¯' | pbcopy";
+alias fight="echo '(ง'̀-'́)ง' | pbcopy";
